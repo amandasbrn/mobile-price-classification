@@ -31,6 +31,6 @@ From the data, we can conclude that battery power, RAM, resolution, and weight a
 1. Some people highly consider RAM, resolution, memory, and battery power, such as gamers, which are fulfilled by price range 3. Bob can invest in those elements to make specific phone series to appeal to this group of customers.
 2. There are also people who look for the best phones based on their specifications without belonging to any specific group, such as gamers, and they can also be enticed by the fact that it is lightweight. Price Range 3 offers a complete package.
 3. Interestingly, lower price ranges have a better front camera and primary camera megapixels. This can attract customers who buy phones because of the camera, for example, content creators, photographers, or just casually like photography and videography in general.
-4. Besides camera quality, lower price ranges also have decent internal memory to store videos and pictures and screen resolution. This will be worth the price for budget-conscious customers.
+4. Besides camera quality, lower price ranges also have decent internal memory (don't have that much difference with the most expensive phones) and screen resolution. This will be worth the price for budget-conscious customers.
 
 Bob's company can strategically market its mobile phones based on the features that are most competitive in each price range. For example, for high-end phones, marketing campaigns can highlight RAM, internal memory, and screen quality, while lower-priced phones can excel in terms of camera megapixels.
