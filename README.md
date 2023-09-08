@@ -29,7 +29,7 @@ This is the result of the prediction of new & unseen data from Bob vs actual dat
 
 From the data, we can conclude that battery power, RAM, resolution, and weight affect the price range the most. It will be much easier for Bob to segment his customers for the next step to target them accordingly. For instance:
 1. Some people highly consider RAM, resolution, memory, and battery power, such as gamers, which are fulfilled by price range 3. Bob can invest in those elements to make specific phone series to appeal to this group of customers.
-2. There are also people who look for the best phones based on their specifications without belonging to any specific group, such as gamers, and they can also be enticed by the fact that it is lightweight. Price Range 3 offers a complete package.
+2. There are also people who look for the best phones based on their specifications without belonging to any specific group (such as gamers) and they can also be enticed by the fact that it is lightweight. Price Range 3 offers a complete package.
 3. Interestingly, lower price ranges have a better front camera and primary camera megapixels. This can attract customers who buy phones because of the camera, for example, content creators, photographers, or just casually like photography and videography in general.
 4. Besides camera quality, lower price ranges also have decent internal memory (don't have that much difference with the most expensive phones) and screen resolution. This will be worth the price for budget-conscious customers.
 
