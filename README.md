@@ -27,7 +27,8 @@ This is the result of the prediction of new & unseen data from Bob vs actual dat
 
 ![image](https://github.com/amandasbrn/mobile-price-classification/assets/66349501/9c26ca83-73d4-4d98-b1ca-a93247cb9a3a)
 
-From the data, we can conclude that battery power, RAM, resolution, and weight affect the price range the most. It will be much easier for Bob to segment his customers for the next step to target them accordingly. For instance:
+From the data, we can conclude that battery power, RAM, resolution, and weight affect the price range the most. Since the model accuracy is 97.2%, it did a great job of discovering the pattern and relationship between each element and the price.
+My suggestion is; it will be much easier for Bob to segment his customers for the next step to target them accordingly. For instance:
 1. Some people highly consider RAM, resolution, memory, and battery power, such as gamers, which are fulfilled by price range 3. Bob can invest in those elements to make specific phone series to appeal to this group of customers.
 2. There are also people who look for the best phones based on their specifications without belonging to any specific group (such as gamers) and they can also be enticed by the fact that it is lightweight. Price Range 3 offers a complete package.
 3. Interestingly, lower price ranges have a better front camera and primary camera megapixels. This can attract customers who buy phones because of the camera, for example, content creators, photographers, or just casually like photography and videography in general.
