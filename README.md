@@ -23,7 +23,7 @@ In this problem, you do not have to predict the actual price but a price range i
 Highest accuracy; Linear SVC with around 97% accuracy
 
 ## Conclusion
-This is the result of the actual data that Bob collected from competitors vs the prediction of new & unseen data from Bob.
+This is the result of the prediction of new & unseen data from Bob vs actual data that Bob collected from competitors
 
 ![image](https://github.com/amandasbrn/mobile-price-classification/assets/66349501/9c26ca83-73d4-4d98-b1ca-a93247cb9a3a)
 
